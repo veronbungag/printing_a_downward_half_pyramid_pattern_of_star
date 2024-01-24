@@ -5,6 +5,7 @@ def downward_half_pyramid(n):
         for j in range(i):
             #print a star for each column
             print("*", end=" ")
-
-#print a newline
+        #print a newline
+        print()
+        
 #check if working add number in function
