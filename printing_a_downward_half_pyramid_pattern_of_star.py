@@ -9,3 +9,4 @@ def downward_half_pyramid(n):
         print()
         
 #check if working add number in function
+downward_half_pyramid(5)
